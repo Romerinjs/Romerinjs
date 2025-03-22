@@ -4,17 +4,15 @@
 
 ###
 
+<div align="center">
+  <img height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpkNDE3ejRsYjR0Njg5M3p1dzIxc2p3dndqZ2QxNWU0dWpsYTJwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6K9d0km3dH6OQ/giphy.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h2 align="left">I'm a Software Developer in progress 💻</h2>
-
-###
-
-<img align="left" height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpkNDE3ejRsYjR0Njg5M3p1dzIxc2p3dndqZ2QxNWU0dWpsYTJwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6K9d0km3dH6OQ/giphy.gif"  />
-
-###
-
-<img align="right" height="350" src="https://media1.tenor.com/m/9sF59CpzD8AAAAAC/kanye-west-kanye.gif"  />
 
 ###
 
@@ -113,13 +111,24 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="www.linkedin.com/in/romer-alexander-almeida-benavides-36b92b352" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/romerinjs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@rmeralmeida4106" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://mail.google.com/romeralmeida21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/romerin.javascript/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https//wa.me/+573124448768" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
@@ -134,6 +143,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Romerinjs/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="375" src="https://media1.tenor.com/m/9sF59CpzD8AAAAAC/kanye-west-kanye.gif"  />
 </div>
 
 ###
