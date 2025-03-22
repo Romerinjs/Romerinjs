@@ -2,11 +2,17 @@
 
 ###
 
-<img align="right" height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpkNDE3ejRsYjR0Njg5M3p1dzIxc2p3dndqZ2QxNWU0dWpsYTJwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6K9d0km3dH6OQ/giphy.gif"  />
+<h2 align="left">I'm a Software Developer in progress 💻</h2>
 
 ###
 
-<h2 align="left">I'm a Software Developer in progress 💻</h2>
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<img align="right" height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpkNDE3ejRsYjR0Njg5M3p1dzIxc2p3dndqZ2QxNWU0dWpsYTJwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6K9d0km3dH6OQ/giphy.gif"  />
 
 ###
 
@@ -15,10 +21,6 @@
 ###
 
 <p align="left">✨ Started this career since 2022<br>📚 I'm currently learning Engineering Systems in the ITP<br>🎯 Goals: Being a awesome Frontend Developer<br>🎲 Fun fact: I like Kanye West's music, cats, penguins, js, CSS, basketball, Coffee, Eminem, monkeys, retro games, digital design, UI</p>
-
-###
-
-<img align="right" height="350" src="https://media1.tenor.com/m/9sF59CpzD8AAAAAC/kanye-west-kanye.gif"  />
 
 ###
 
@@ -94,9 +96,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="center">Social medias</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -119,4 +125,13 @@
 </div>
 
 ###
-### Sapo
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img height="350" src="https://media1.tenor.com/m/9sF59CpzD8AAAAAC/kanye-west-kanye.gif"  />
+</div>
+
+###
