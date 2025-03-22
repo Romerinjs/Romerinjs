@@ -1,28 +1,36 @@
+<br clear="both">
+
 <h1 align="center">'Sup there, I'm Romerin 🖖</h1>
-
-###
-
-<h2 align="left">I'm a Software Developer in progress 💻</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left"></p>
+<h2 align="left">I'm a Software Developer in progress 💻</h2>
 
 ###
 
-<img align="right" height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpkNDE3ejRsYjR0Njg5M3p1dzIxc2p3dndqZ2QxNWU0dWpsYTJwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6K9d0km3dH6OQ/giphy.gif"  />
+<img align="left" height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpkNDE3ejRsYjR0Njg5M3p1dzIxc2p3dndqZ2QxNWU0dWpsYTJwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6K9d0km3dH6OQ/giphy.gif"  />
 
 ###
+
+<img align="right" height="350" src="https://media1.tenor.com/m/9sF59CpzD8AAAAAC/kanye-west-kanye.gif"  />
+
+###
+
+<br clear="both">
 
 <h2 align="left">About Romerinjs</h2>
 
 ###
 
+<br clear="both">
+
 <p align="left">✨ Started this career since 2022<br>📚 I'm currently learning Engineering Systems in the ITP<br>🎯 Goals: Being a awesome Frontend Developer<br>🎲 Fun fact: I like Kanye West's music, cats, penguins, js, CSS, basketball, Coffee, Eminem, monkeys, retro games, digital design, UI</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -116,22 +124,16 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Romerinjs/Romerinjs/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Romerinjs/count.svg?"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img height="350" src="https://media1.tenor.com/m/9sF59CpzD8AAAAAC/kanye-west-kanye.gif"  />
 </div>
 
 ###
